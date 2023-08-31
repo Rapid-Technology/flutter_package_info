@@ -1,4 +1,4 @@
-# flutter_package_info
+# Flutter Package Info
 
 A new Flutter project.
 
