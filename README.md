@@ -1,6 +1,6 @@
 # Flutter Package Info
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/XMeWeE3UI2Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=XMeWeE3UI2Q)
 
 ## Getting Started
 
